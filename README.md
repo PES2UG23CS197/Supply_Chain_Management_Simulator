@@ -4,7 +4,12 @@ A simulation system for tracking products through a supply chain from manufactur
 ## Instructions
 
 ### Prerequisites
-- [List your prerequisites here]
+- Python
+- Streamlit
+- MySQL
+- Pytest
+- Pylint
+- Bandit
 
 ### Installation
 1. Clone the repository
