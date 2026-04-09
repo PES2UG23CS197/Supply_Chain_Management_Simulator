@@ -9,8 +9,8 @@ A simulation system for tracking products through a supply chain from manufactur
 ### Installation
 1. Clone the repository
    ```bash
-   git clone https://github.com/pestechnology/PESU_EC_CSE_C_P26_Supply_Chain_Management_Simulator_Team-26.git
-   cd PESU_EC_CSE_C_P26_Supply_Chain_Management_Simulator_Team-26
+   git clone https://github.com/PES2UG23CS197/Supply_Chain_Management_Simulator.git
+   cd Supply_Chain_Management_Simulator
    ```
 
 2. Install dependencies
