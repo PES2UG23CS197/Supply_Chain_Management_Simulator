@@ -32,8 +32,14 @@ A simulation system for tracking products through a supply chain from manufactur
 
 ```bash
 # Run tests
-npm test
+pytest tests.py -v
 
 # Run tests with coverage
-npm run test:coverage
+pytest -v --cov=db --cov-report=term-missing tests.py
+
+# Run Pylint
+pylint . --exit-zero
+
+# Run Bandit
+bandit -r . -x tests.py -s B106
 ```
