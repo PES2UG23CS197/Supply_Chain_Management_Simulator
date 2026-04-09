@@ -28,3 +28,12 @@ A simulation system for tracking products through a supply chain from manufactur
    cd src
    streamlit run main.py
    ```
+## Testing
+
+```bash
+# Run tests
+npm test
+
+# Run tests with coverage
+npm run test:coverage
+```
